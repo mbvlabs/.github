@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
+mbv labs is an exploratory repository for tech and business applications. The idea is to make repositories public available should they reach a point of maturity, where it makes sense.
 
-**Here are some ideas to get you started:**
+🌈 Contribution guidelines:
+Feel free to contribute to public projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 Useful resources:
+[mortenvistisen](https://mortenvistisen.com)
